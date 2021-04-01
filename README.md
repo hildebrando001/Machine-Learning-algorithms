@@ -10,4 +10,5 @@ Machine Learning algorithms
 
 [Linear Regression](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 
+[Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
 
