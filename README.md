@@ -14,3 +14,5 @@ Machine Learning algorithms
 
 [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
 
+[Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
+
