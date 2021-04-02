@@ -17,3 +17,5 @@ Machine Learning algorithms
 [Perceptron](https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53)
 
 [SVM (Support Vector Machine)](https://scikit-learn.org/stable/modules/svm.html)
+
+[Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
