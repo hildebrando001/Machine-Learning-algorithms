@@ -19,3 +19,5 @@ Machine Learning algorithms
 [SVM (Support Vector Machine)](https://scikit-learn.org/stable/modules/svm.html)
 
 [Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
+
+[Random Forest](https://builtin.com/data-science/random-forest-algorithm)
