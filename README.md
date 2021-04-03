@@ -25,3 +25,5 @@ Machine Learning algorithms
 [PCA - Principal Component Analysis](https://medium.com/apprentice-journal/pca-application-in-machine-learning-4827c07a61db)
 
 [K-Means](https://realpython.com/k-means-clustering-python/)
+
+[Adaboost](https://machinelearningmastery.com/adaboost-ensemble-in-python/)
