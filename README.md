@@ -27,3 +27,5 @@ Machine Learning algorithms
 [K-Means](https://realpython.com/k-means-clustering-python/)
 
 [Adaboost](https://machinelearningmastery.com/adaboost-ensemble-in-python/)
+
+[LDA - Linear Dimension Algorithm](https://medium.com/machine-learning-researcher/dimensionality-reduction-pca-and-lda-6be91734f567)
